@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://junaid-sarwar.surge.sh/](https://junaid-sarwar.surge.sh/)
+- 👨‍💻 All of my projects are available at [https://junaidsarwar.online/](https://junaidsarwar.online/)
 
 - 📫 How to reach me **junaidsarwariqbal@gmail.com**
 
