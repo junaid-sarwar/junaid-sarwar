@@ -1,4 +1,5 @@
-![logo](https://github.com/junaid-sarwar/junaid-sarwar/blob/main/Github%20Banner.png)
+[![Stand With Palestine](https://github.com/standforhumanity/stand-with-palestine/blob/main/Banners/Banner1.svg)](https://stand-with-palestine.vercel.app)
+
 <h1 align="center">Hi 👋, I'm Syed Muhammad Junaid Sarwar</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 <h4 align="center">Trying to learn new things</h4>
